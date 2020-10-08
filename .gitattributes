@@ -1,0 +1,8 @@
+﻿# 全てのBATファイル
+*.bat diff=sjis
+
+# 全てのREGファイル
+*.reg diff=sjis
+ 
+# 全てのtxtファイル
+*.txt diff=sjis

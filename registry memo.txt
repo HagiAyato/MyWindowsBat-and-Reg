@@ -1,0 +1,8 @@
+windowsの高速化設定
+Windows_Speed_Up.reg …設定実行
+Windows_Speed_Up_Restore_Default.reg …設定解除
+引用元：https://euc-access-excel-db.com/tips/ct07_se/ct070701_clntpc_make/1st_config
+
+Windows 10 のタスクバーから音量・ボリュームアイコンが消えた場合の再表示方法
+volumeicon.reg…再表示作業中のレジストリ操作
+引用元：http://labo.dotsmart.biz/windows10-volumeicon
