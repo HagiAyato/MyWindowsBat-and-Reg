@@ -59,3 +59,8 @@ explorer-restart.bat…エクスプローラー再起動<br/>
   volumeicon.reg…再表示作業中のレジストリ操作<br/>
   引用元：http://labo.dotsmart.biz/windows10-volumeicon
 </p>
+<p>
+  <b>Windows 10 で「フォト ビューアー」を有効化する</b><br/>
+  photo-viewer.reg…「フォト ビューアー」を有効化<br/>
+  引用元：https://popozure.info/20190823/14633#toc2
+</p>
