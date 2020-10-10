@@ -38,7 +38,7 @@ explorer-restart.bat…エクスプローラー再起動<br/>
 </p>
 <p>
   <b>コマンド版電源オプション変更</b><br/>
-  shutdown.bat…電源オプション変更実行<br/>
+  power_config_cmd.bat…電源オプション変更実行<br/>
   【使い方】<br/>
   本バッジファイルを実行することで、下記いずれかに電源オプション変更できます。
   <ul>
