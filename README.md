@@ -37,6 +37,18 @@ explorer-restart.bat…エクスプローラー再起動<br/>
   </ul>
 </p>
 <p>
+  <b>コマンド版電源オプション変更</b><br/>
+  shutdown.bat…電源オプション変更実行<br/>
+  【使い方】<br/>
+  本バッジファイルを実行することで、下記いずれかに電源オプション変更できます。
+  <ul>
+    <li>[1] : バランス</li>
+    <li>[2] : 省電力</li>
+    <li>[3] : 高パフォーマンス</li>
+    <li>[4] : Eco(Dynabook 環境独自?)</li>
+  </ul>
+</p>
+<p>
   <b>trim+システム修復コマンド</b><br/>
   trim+system_file_checker.bat…trim+システム修復コマンド実行<br/>  
   【使い方】<br/>
