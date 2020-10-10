@@ -58,6 +58,12 @@ explorer-restart.bat…エクスプローラー再起動<br/>
   システム修復(システムファイルチェッカーツール)参考：<br/>
   　https://support.microsoft.com/ja-jp/help/929833/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system<br/>
 </p>
+<p>
+  <b>"ファイル名を指定して実行"</b><br/>
+  run.bat…"ファイル名を指定して実行"を起動<br/>
+  引用元：https://qiita.com/sta/items/4b70e6b130a1033dc2c5<br/>
+  ファイル名を指定して実行を、Win+Rを押すというような面倒な操作なしで起動できます。<br/>
+</p>
 <br/>
 <h3>.reg レジストリ設定ファイル系</h3>
 <p>
