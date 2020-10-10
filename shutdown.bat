@@ -1,5 +1,5 @@
-rem コマンド版シャットダウンメニュー
 @echo off
+rem コマンド版シャットダウンメニュー
 echo ************ アプリケーションメニュー ************
 echo [1] : シャットダウン
 echo [2] : 再起動
@@ -14,4 +14,3 @@ if "%NUM%"=="2" shutdown.exe /r /t 0
 if "%NUM%"=="3" shutdown /l
 if "%NUM%"=="4" shutdown.exe -h
 if "%NUM%"=="5" shutdown.exe /r /o /f /t 00
-exit.

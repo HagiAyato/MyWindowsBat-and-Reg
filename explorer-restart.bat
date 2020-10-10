@@ -1,3 +1,4 @@
+@echo off
 rem エクスプローラータスク強制終了
 taskkill /f /im explorer.exe
 rem エクスプローラータスク開始
