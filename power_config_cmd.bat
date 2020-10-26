@@ -1,5 +1,7 @@
 @echo off
 rem コマンド版電源オプション変更
+powercfg -GETACTIVESCHEME
+echo .
 echo ************ 電源オプション変更メニュー ************
 echo [1] : バランス
 echo [2] : 省電力
