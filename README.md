@@ -82,3 +82,10 @@ explorer-restart.bat…エクスプローラー再起動<br/>
   photo-viewer.reg…「フォト ビューアー」を有効化<br/>
   引用元：https://popozure.info/20190823/14633#toc2
 </p>
+<br/>
+<h3>.url ショートカット系</h3>
+<p>
+  <b>windowsの設定を開くショートカット</b><br/>
+  windows-config.url…windowsの設定を開く<br/>
+  参考：https://www.tipsfound.com/windows10/11015
+</p>
