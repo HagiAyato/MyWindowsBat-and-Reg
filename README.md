@@ -50,7 +50,7 @@ explorer-restart.bat…エクスプローラー再起動<br/>
 </p>
 <p>
   <b>trim+システム修復コマンド</b><br/>
-  trim+system_file_checker.bat…trim+システム修復コマンド実行<br/>  
+  trim+system_file_checker.bat…trim+システム修復コマンド実行<br/>
   【使い方】<br/>
   本バッジファイルを"管理者として実行"(右クリックで選択できます。)<br/>
   windowsシステムのチェックと修復、SSD版デフラグ=trimを一括実行します。<br/>
@@ -63,6 +63,19 @@ explorer-restart.bat…エクスプローラー再起動<br/>
   run.bat…"ファイル名を指定して実行"を起動<br/>
   引用元：https://qiita.com/sta/items/4b70e6b130a1033dc2c5<br/>
   ファイル名を指定して実行を、Win+Rを押すというような面倒な操作なしで起動できます。<br/>
+</p>
+<p>
+  <b>受信ウィンドウ自動チューニングレベルを引き上げ</b><br/>
+  Network_Speed_Up.bat…"受信ウィンドウ自動チューニングレベルを引き上げ"を実行<br/>
+  【使い方】<br/>
+  本バッジファイルを"管理者として実行"(右クリックで選択できます。)<br/>
+  引用元：https://noahfx.xyz/2019/07/05/internetspeed/<br/>
+  受信ウィンドウ自動チューニングレベルを引き上げることで、通信の高速化を図ります。<br/>
+</p>
+<p>
+  <b>コマンドプロンプトでRuby起動</b><br/>
+  startruby.bat…Rubyが立ち上がった状態のコマンドプロンプトを起動<br/>
+  コマンドプロンプト上で実行すると、開いているコマンドプロンプト上でRubyが起動します。<br/>
 </p>
 <br/>
 <h3>.reg レジストリ設定ファイル系</h3>
