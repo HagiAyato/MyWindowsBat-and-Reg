@@ -24,6 +24,14 @@ explorer-restart.bat…エクスプローラー再起動<br/>
 エクスプローラーがうまく動かなくなった際に、これを使用して強制終了&即再起動できます。<br/>
 </p>
 <p>
+  <b>IME再起動コマンド</b><br/>
+  IME-restart.bat…エクスプローラー再起動<br/>
+  IMEがうまく動かなくなった際に、これを管理者権限で使用して強制終了&即再起動できます。<br/>
+  コマンド参考：https://qiita.com/_masa_u/items/b2e9c07f51a909c6e9b8<br/>
+  PID捜索参考：<br/>
+  　http://capm-network.com/?tag=Windows%E3%83%90%E3%83%83%E3%83%81%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E5%AE%9F%E8%A1%8C%E7%B5%90%E6%9E%9C%E3%81%AE%E5%8F%96%E5%BE%97<br/>
+</p>
+<p>
   <b>シャットダウンコマンド</b><br/>
   shutdown.bat…シャットダウンコマンド実行<br/>
   【使い方】<br/>
