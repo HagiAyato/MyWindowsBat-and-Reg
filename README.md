@@ -103,6 +103,11 @@ explorer-restart.bat…エクスプローラー再起動<br/>
   photo-viewer.reg…「フォト ビューアー」を有効化<br/>
   引用元：https://popozure.info/20190823/14633#toc2
 </p>
+<p>
+  <b>Windows 10 ディレクトリパス長上限が256文字では足りない場合</b><br/>
+  Raise_Path_Limit.reg…ディレクトリパス長上限を256文字から32k文字に引き上げる<br/>
+  引用元：https://docs.microsoft.com/ja-jp/windows/win32/fileio/maximum-file-path-limitation?tabs=cmd
+</p>
 <br/>
 <h3>.url ショートカット系</h3>
 <p>
